@@ -1,7 +1,5 @@
 #!/usr/bin/python
 
-import sys
-
 def count_characters_in_string(string):
   counter = {}
 
